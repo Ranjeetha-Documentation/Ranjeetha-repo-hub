@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Introduction to RDK-B
 
 Let's discover **Welcome to RDK-B**.
