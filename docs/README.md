@@ -6,6 +6,7 @@
 ## Methods:
 ```
 curl --header "Content-Type: application/json" --request POST --data '{"jsonrpc":"2.0", "id":"3", "method":"rdk.Architecture.doc.v1.0.0"}' 
+```
 
 ## Events
 ```
