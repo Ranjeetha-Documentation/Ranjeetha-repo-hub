@@ -1,7 +1,5 @@
 # Introduction to RDK-B
 
-# Introduction to RDK-B
-
 Let's discover **Welcome to RDK-B**.
 
 ## Key Features
